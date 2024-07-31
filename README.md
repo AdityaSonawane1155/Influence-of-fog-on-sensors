@@ -9,7 +9,7 @@ objects and their distance from the sensors. In this task, we are looking into t
 
 
 
-Methodologhy: \                                                                                             
+Methodologhy:                                                                                              
 The method used to determine the influence of fog on the sensors is done by determining the distance
 of the point cloud in 3-D space. The visualisation of distance from the sensor and corresponding
 point cloud is done by using a Python script to plot a histogram. The dataset is in the form of .csv
