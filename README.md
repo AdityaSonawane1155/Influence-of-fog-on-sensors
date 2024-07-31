@@ -21,4 +21,10 @@ the Matplotlib library. The histograms obtained are then visually compared with 
 clouds present at respective distances in clear and fog conditions.
 
 
-![Screenshot 2024-07-31 223510](https://github.com/user-attachments/assets/de16adc3-57a1-4fd1-baa7-bef3c74d5d73)
+![Screenshot 2024-07-31 223414](https://github.com/user-attachments/assets/ee8071c8-0083-4a55-ae3a-bc5b028ac730)
+![Screenshot 2024-07-31 223433](https://github.com/user-attachments/assets/ccc6d574-ce09-4bc3-8e06-342ad8407607)
+![Screenshot 2024-07-31 223442](https://github.com/user-attachments/assets/4e229324-bb3e-403a-a187-0b37c1a10411)
+![Screenshot 2024-07-31 223450](https://github.com/user-attachments/assets/e04ae7e1-81b7-41f6-b8f8-3196d81efb01)
+![Screenshot 2024-07-31 223458](https://github.com/user-attachments/assets/303e350d-ff27-4531-8e29-a6ce53120716)
+![Screenshot 2024-07-31 223510](https://github.com/user-attachments/assets/6a77d7b7-d170-4882-91f4-aa706cbba46b)
+
