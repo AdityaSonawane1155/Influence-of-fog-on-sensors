@@ -9,7 +9,7 @@ objects and their distance from the sensors. In this task, we are looking into t
 
 
 
-Methodologhy:                                                                                              
+Methodology:                                                                                              
 The method used to determine the influence of fog on the sensors is done by determining the distance
 of the point cloud in 3-D space. The visualisation of distance from the sensor and corresponding
 point cloud is done by using a Python script to plot a histogram. The dataset is in the form of .csv
@@ -19,3 +19,6 @@ The operation of unwrapping the .csv files and calculating the distance is done 
 library. The distance obtained is then plotted against the point cloud in the form of a histogram using
 the Matplotlib library. The histograms obtained are then visually compared with respect to point
 clouds present at respective distances in clear and fog conditions.
+
+
+![Screenshot 2024-07-31 223510](https://github.com/user-attachments/assets/de16adc3-57a1-4fd1-baa7-bef3c74d5d73)
